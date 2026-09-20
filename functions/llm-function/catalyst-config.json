@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "llm-function",
+		"stack": "java25",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "Sample"
+	}
+}

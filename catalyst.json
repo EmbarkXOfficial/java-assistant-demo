@@ -1,0 +1,18 @@
+{
+  "functions": {
+    "targets": [
+      "llm-function",
+      "ApiFetcher"
+    ],
+    "ignore": [
+      ".output"
+    ],
+    "source": "functions"
+  },
+  "slate": [
+    {
+      "name": "frontend",
+      "source": "E:\\code\\tools\\catalyst-slate\\java-assistant\\frontend"
+    }
+  ]
+}
